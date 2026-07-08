@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T13:47:44.104Z",
+  "generated_at": "2026-07-08T15:15:27.037Z",
   "summary": {
     "unlockables": 241,
     "issues": 0,
@@ -18,6 +18,9 @@
       "stage": 10,
       "survivor": 13,
       "trial": 50
+    },
+    "by_en_guide_review": {
+      "accepted": 241
     },
     "by_zh_guide_review": {
       "accepted": 241

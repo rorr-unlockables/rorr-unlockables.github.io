@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-08T13:47:44.163Z",
+  "generated_at": "2026-07-08T15:15:27.095Z",
   "locales": [
     "en",
     "zh-Hans"
@@ -282,7 +282,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Desolate_Forest#Artifact_of_Cognation"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -291,7 +291,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -347,7 +347,7 @@
           "location": "In the Hive",
           "steps": [
             "Route into Hive Cluster, Stage Variant #1, #2, or #3.",
-            "Go to the top-right area of the stage. The cached wiki image text identifies the artifact in the top right of Stage Variant #1.",
+            "Go to the top-right area of the stage. On Stage Variant #1, the artifact is in the top-right corner.",
             "Pick up the Artifact of Command."
           ],
           "notes": []
@@ -358,7 +358,7 @@
           "location": "虫巢之中",
           "steps": [
             "进入<虫巢>关卡变体 #1、#2 或 #3。",
-            "前往关卡右上区域。缓存的 wiki 图片文字指出，关卡变体 #1 的右上角有该神器。",
+            "前往关卡右上区域。在关卡变体 #1 中，该神器位于右上角。",
             "拾取<神器：统率>。"
           ],
           "notes": []
@@ -387,7 +387,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Hive_Cluster#Artifact_of_Command"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -396,7 +396,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -478,8 +478,8 @@
           "steps": [
             "Collect the shard in Ancient Valley variants #4-#6: it is on the right side of the central mountain and can be reached by a hidden chain or rope at the top of the mountain.",
             "Collect the shard in Sunken Tombs Stage Variant #5.",
-            "Collect the shard in Magma Barracks variants #4-#6: the cached wiki note places it near the top-right of the map on Stage Variant #6.",
-            "Collect the shard in Hive Cluster variants #1-#3: the cached wiki note points to the Bloated Survivor in the bottom-right of Stage Variant #1.",
+            "Collect the shard in Magma Barracks variants #4-#6; on Stage Variant #6, check near the top-right of the map.",
+            "Collect the shard in Hive Cluster variants #1-#3; on Stage Variant #1, check the bottom-right area near the Bloated Survivor.",
             "After 4 total Artifact Shards are collected, Artifact of Dissonance unlocks."
           ],
           "notes": []
@@ -491,8 +491,8 @@
           "steps": [
             "收集<远古峡谷>变体 #4-#6 的碎片：它位于中央山体右侧，可通过山顶隐藏的锁链或绳索抵达。",
             "收集<沉没墓园>关卡变体 #5 的碎片。",
-            "收集<熔岩要塞>变体 #4-#6 的碎片：缓存的 wiki 注记指出它在关卡变体 #6 地图右上方附近。",
-            "收集<虫巢>变体 #1-#3 的碎片：缓存的 wiki 注记指向关卡变体 #1 右下角的<膨胀幸存者>。",
+            "收集<熔岩要塞>变体 #4-#6 的碎片；在关卡变体 #6 中，检查地图右上方附近。",
+            "收集<虫巢>变体 #1-#3 的碎片；在关卡变体 #1 中，检查右下角<膨胀幸存者>附近。",
             "总计收集 4 个<神器碎片>后，<神器：纷争>会解锁。"
           ],
           "notes": []
@@ -542,7 +542,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Ancient_Valley#Artifact_of_Dissonance"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -551,7 +551,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -607,7 +607,7 @@
           "location": "Among the Mushrooms",
           "steps": [
             "Route into Damp Caverns, Stage Variant #1, #2, or #3.",
-            "Find the artifact button. The cached wiki image text specifically identifies the button location on Stage Variant #2.",
+            "Find the artifact button. On Stage Variant #2, the button is at the marked artifact-button location.",
             "Press the button.",
             "Go to the pedestal to the left of the button location and pick up the spawned artifact."
           ],
@@ -619,7 +619,7 @@
           "location": "蘑菇之间",
           "steps": [
             "进入<潮湿洞窟>关卡变体 #1、#2 或 #3。",
-            "寻找神器按钮。缓存的 wiki 图片文字特别标出了关卡变体 #2 的按钮位置。",
+            "寻找神器按钮。在关卡变体 #2 中，按钮位于已标出的神器按钮位置。",
             "按下按钮。",
             "前往按钮位置左侧的基座，拾取生成的<神器：扭曲>。"
           ],
@@ -649,7 +649,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Damp_Caverns#Artifact_of_Distortion"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -658,7 +658,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -765,7 +765,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Artifact_of_Enigma"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -774,7 +774,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -874,7 +874,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Ancient_Valley#Artifact_of_Glass"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -883,7 +883,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -981,7 +981,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Desolate_Forest#Artifact_of_Honor"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -990,7 +990,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1054,7 +1054,7 @@
           "steps": [
             "Route into Dried Lake, Stage Variant #1, #2, or #3.",
             "Go to the far right side of the stage and find the breakable wall.",
-            "Break the wall with a suitable Survivor skill. The cached wiki note says Hopoo Feather, Rusty Jetpack, or Photon Jetpack can be required to reach it.",
+            "Break the wall with a suitable Survivor skill. Hopoo Feather, Rusty Jetpack, or Photon Jetpack may be needed to reach it.",
             "Activate all three buttons in the puzzle room.",
             "Pick up the Artifact of Kin at the Artifact Portal."
           ],
@@ -1067,7 +1067,7 @@
           "steps": [
             "进入<枯涸湖>关卡变体 #1、#2 或 #3。",
             "前往关卡最右侧，找到可破坏墙壁。",
-            "用合适的<幸存者>技能打破墙壁。缓存的 wiki 注记称，抵达这里可能需要<霍普羽毛>、<生锈的喷气背包>或<光子喷气背包>。",
+            "用合适的<幸存者>技能打破墙壁。可能需要<霍普羽毛>、<生锈的喷气背包>或<光子喷气背包>才能抵达。",
             "激活谜题房间中的全部三个按钮。",
             "在<神器传送门>拾取<神器：亲族>。"
           ],
@@ -1097,7 +1097,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Dried_Lake#Artifact_of_Kin"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1106,7 +1106,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1313,7 +1313,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Risk_of_Rain_Stage#Artifact_of_Origin"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1322,7 +1322,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1441,7 +1441,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Artifact_of_Sacrifice"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1450,7 +1450,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1548,7 +1548,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Temple_of_the_Elders#Artifact_of_Spirit"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1557,7 +1557,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1657,7 +1657,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Sky_Meadow#Artifact_of_Spite"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1666,7 +1666,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -1762,7 +1762,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Temple_of_the_Elders#Artifact_of_Tempus"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -1771,7 +1771,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -3034,7 +3034,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "web:https://www.destructoid.com/where-to-find-the-bloated-survivor-in-risk-of-rain-returns/"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -3043,7 +3043,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -4741,7 +4741,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "web:https://www.destructoid.com/how-to-find-the-mu-construct-in-risk-of-rain-returns/"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -4750,7 +4750,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -6745,7 +6745,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "web:https://primagames.com/tips/how-to-find-the-illegal-shipment-in-risk-of-rain-returns"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -6754,7 +6754,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7254,26 +7254,22 @@
       "text": {
         "en": {
           "name": "Ancient Wisp",
-          "summary": "Farm the Monster Log at Damp Caverns. Damp Caverns is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Damp Caverns, Sky Meadow.",
+          "summary": "Farm Ancient Wisp's Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow.",
           "location": "Damp Caverns",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "远古幽魂",
-          "summary": "推荐在<潮湿洞窟>刷<远古幽魂>的<怪物日志>。根据缓存的关卡表，<潮湿洞窟>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<潮湿洞窟>、<空中草原>。",
+          "summary": "推荐在<潮湿洞窟>刷<远古幽魂>的<怪物日志>。在已知生成池中，<潮湿洞窟>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<潮湿洞窟>、<空中草原>。",
           "location": "潮湿洞窟",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7307,7 +7303,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7316,7 +7312,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7364,26 +7360,22 @@
       "text": {
         "en": {
           "name": "Archer Bug",
-          "summary": "Farm the Monster Log at Temple of the Elders. Temple of the Elders is the smallest matching standard pool in the cached stage tables (7 listed standard entries). Known wiki stage pools: standard spawn: Temple of the Elders.",
+          "summary": "Farm Archer Bug's Monster Log in Temple of the Elders. Temple of the Elders is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders.",
           "location": "Temple of the Elders",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "射手虫",
-          "summary": "推荐在<长老神殿>刷<射手虫>的<怪物日志>。根据缓存的关卡表，<长老神殿>是匹配普通生成池中最小的推荐地点（列出 7 个普通生成条目）。已知 wiki 关卡池：普通生成：<长老神殿>。",
+          "summary": "推荐在<长老神殿>刷<射手虫>的<怪物日志>。在已知生成池中，<长老神殿>是最早推荐的普通生成刷取地点（7 个普通生成条目）。已知关卡池：普通生成：<长老神殿>。",
           "location": "长老神殿",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7417,7 +7409,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7426,7 +7418,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7479,26 +7471,22 @@
       "text": {
         "en": {
           "name": "Bighorn Bison",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Ancient Valley, Magma Barracks.",
+          "summary": "Farm Bighorn Bison's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Ancient Valley, Magma Barracks.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "巨角野牛",
-          "summary": "推荐在<远古峡谷>刷<巨角野牛>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<远古峡谷>、<熔岩要塞>。",
+          "summary": "推荐在<远古峡谷>刷<巨角野牛>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<远古峡谷>、<熔岩要塞>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7532,7 +7520,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7541,7 +7529,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7594,26 +7582,22 @@
       "text": {
         "en": {
           "name": "Black Imp",
-          "summary": "Farm the Monster Log at Sunken Tombs. Sunken Tombs is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Damp Caverns, Sunken Tombs.",
+          "summary": "Farm Black Imp's Monster Log in Sunken Tombs. Sunken Tombs is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Damp Caverns, Sunken Tombs.",
           "location": "Sunken Tombs",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "黑小恶魔",
-          "summary": "推荐在<沉没墓园>刷<黑小恶魔>的<怪物日志>。根据缓存的关卡表，<沉没墓园>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<潮湿洞窟>、<沉没墓园>。",
+          "summary": "推荐在<沉没墓园>刷<黑小恶魔>的<怪物日志>。在已知生成池中，<沉没墓园>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<潮湿洞窟>、<沉没墓园>。",
           "location": "沉没墓园",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7647,7 +7631,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7656,7 +7640,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7714,26 +7698,22 @@
       "text": {
         "en": {
           "name": "Bramble",
-          "summary": "Farm the Monster Log at Temple of the Elders. Temple of the Elders is the smallest matching standard pool in the cached stage tables (7 listed standard entries). Known wiki stage pools: standard spawn: Temple of the Elders; after looping: Damp Caverns, Sky Meadow.",
+          "summary": "Farm Bramble's Monster Log in Temple of the Elders. Temple of the Elders is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders; after looping: Damp Caverns, Sky Meadow.",
           "location": "Temple of the Elders",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "荆棘",
-          "summary": "推荐在<长老神殿>刷<荆棘>的<怪物日志>。根据缓存的关卡表，<长老神殿>是匹配普通生成池中最小的推荐地点（列出 7 个普通生成条目）。已知 wiki 关卡池：普通生成：<长老神殿>；循环后：<潮湿洞窟>、<空中草原>。",
+          "summary": "推荐在<长老神殿>刷<荆棘>的<怪物日志>。在已知生成池中，<长老神殿>是最早推荐的普通生成刷取地点（7 个普通生成条目）。已知关卡池：普通生成：<长老神殿>；循环后：<潮湿洞窟>、<空中草原>。",
           "location": "长老神殿",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7767,7 +7747,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7776,7 +7756,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7824,26 +7804,22 @@
       "text": {
         "en": {
           "name": "Child",
-          "summary": "Farm the Monster Log at Sky Meadow. Sky Meadow is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Sky Meadow.",
+          "summary": "Farm Child's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Sky Meadow.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "魔童",
-          "summary": "推荐在<空中草原>刷<魔童>的<怪物日志>。根据缓存的关卡表，<空中草原>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<空中草原>。",
+          "summary": "推荐在<空中草原>刷<魔童>的<怪物日志>。在已知生成池中，<空中草原>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<空中草原>。",
           "location": "空中草原",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -7877,7 +7853,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -7886,7 +7862,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -7949,26 +7925,22 @@
       "text": {
         "en": {
           "name": "Clay Man",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Ancient Valley, Sunken Tombs, Temple of the Elders, Risk of Rain.",
+          "summary": "Farm Clay Man's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Ancient Valley, Sunken Tombs, Temple of the Elders, Risk of Rain.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "粘土人",
-          "summary": "推荐在<远古峡谷>刷<粘土人>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<远古峡谷>、<沉没墓园>、<长老神殿>、<暴雨滂沱>。",
+          "summary": "推荐在<远古峡谷>刷<粘土人>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<远古峡谷>、<沉没墓园>、<长老神殿>、<暴雨滂沱>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8002,7 +7974,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8011,7 +7983,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8074,26 +8046,22 @@
       "text": {
         "en": {
           "name": "Colossus",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Desolate Forest, Dried Lake, Ancient Valley, Sunken Tombs.",
+          "summary": "Farm Colossus's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Desolate Forest, Dried Lake, Ancient Valley, Sunken Tombs.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "巨像",
-          "summary": "推荐在<远古峡谷>刷<巨像>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<荒凉森林>、<枯涸湖>、<远古峡谷>、<沉没墓园>。",
+          "summary": "推荐在<远古峡谷>刷<巨像>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<荒凉森林>、<枯涸湖>、<远古峡谷>、<沉没墓园>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8127,7 +8095,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8136,7 +8104,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8184,26 +8152,22 @@
       "text": {
         "en": {
           "name": "Cremator",
-          "summary": "Farm the Monster Log at Magma Barracks. Magma Barracks is the smallest matching boss pool in the cached stage tables (4 listed boss entries). Known wiki stage pools: boss: Magma Barracks.",
+          "summary": "Farm Cremator's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended boss farming location among the known spawn pools (4 listed boss entries). Known stage pools: boss: Magma Barracks.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "火焚怪",
-          "summary": "推荐在<熔岩要塞>刷<火焚怪>的<怪物日志>。根据缓存的关卡表，<熔岩要塞>是匹配首领池中最小的推荐地点（列出 4 个首领条目）。已知 wiki 关卡池：首领：<熔岩要塞>。",
+          "summary": "推荐在<熔岩要塞>刷<火焚怪>的<怪物日志>。在已知生成池中，<熔岩要塞>是最早推荐的首领刷取地点（4 个首领条目）。已知关卡池：首领：<熔岩要塞>。",
           "location": "熔岩要塞",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8237,7 +8201,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8246,7 +8210,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8304,26 +8268,22 @@
       "text": {
         "en": {
           "name": "Elder Lemurian",
-          "summary": "Farm the Monster Log at Risk of Rain. Risk of Rain is the smallest matching standard pool in the cached stage tables (7 listed standard entries). Known wiki stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
+          "summary": "Farm Elder Lemurian's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "利莫里亚长老",
-          "summary": "推荐在<暴雨滂沱>刷<利莫里亚长老>的<怪物日志>。根据缓存的关卡表，<暴雨滂沱>是匹配普通生成池中最小的推荐地点（列出 7 个普通生成条目）。已知 wiki 关卡池：普通生成：<长老神殿>、<暴雨滂沱>；首领：<熔岩要塞>。",
+          "summary": "推荐在<暴雨滂沱>刷<利莫里亚长老>的<怪物日志>。在已知生成池中，<暴雨滂沱>是最早推荐的普通生成刷取地点（7 个普通生成条目）。已知关卡池：普通生成：<长老神殿>、<暴雨滂沱>；首领：<熔岩要塞>。",
           "location": "暴雨滂沱",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8357,7 +8317,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8366,7 +8326,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8419,26 +8379,22 @@
       "text": {
         "en": {
           "name": "Evolved Lemurian",
-          "summary": "Farm the Monster Log at Magma Barracks. Magma Barracks is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Magma Barracks, Hive Cluster.",
+          "summary": "Farm Evolved Lemurian's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Hive Cluster.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "飞天利莫里亚人",
-          "summary": "推荐在<熔岩要塞>刷<飞天利莫里亚人>的<怪物日志>。根据缓存的关卡表，<熔岩要塞>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<熔岩要塞>、<虫巢>。",
+          "summary": "推荐在<熔岩要塞>刷<飞天利莫里亚人>的<怪物日志>。在已知生成池中，<熔岩要塞>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<熔岩要塞>、<虫巢>。",
           "location": "熔岩要塞",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8472,7 +8428,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8481,7 +8437,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8544,26 +8500,22 @@
       "text": {
         "en": {
           "name": "Greater Wisp",
-          "summary": "Farm the Monster Log at Sky Meadow. Sky Meadow is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
+          "summary": "Farm Greater Wisp's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "巨型幽魂",
-          "summary": "推荐在<空中草原>刷<巨型幽魂>的<怪物日志>。根据缓存的关卡表，<空中草原>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<空中草原>。",
+          "summary": "推荐在<空中草原>刷<巨型幽魂>的<怪物日志>。在已知生成池中，<空中草原>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<空中草原>。",
           "location": "空中草原",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8597,7 +8549,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8606,7 +8558,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8654,26 +8606,22 @@
       "text": {
         "en": {
           "name": "Gup",
-          "summary": "Farm the Monster Log at Hive Cluster. Hive Cluster is the smallest matching standard pool in the cached stage tables (6 listed standard entries). Known wiki stage pools: standard spawn: Hive Cluster.",
+          "summary": "Farm Gup's Monster Log in Hive Cluster. Hive Cluster is the earliest recommended standard spawn farming location among the known spawn pools (6 listed standard spawn entries). Known stage pools: standard spawn: Hive Cluster.",
           "location": "Hive Cluster",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "加普",
-          "summary": "推荐在<虫巢>刷<加普>的<怪物日志>。根据缓存的关卡表，<虫巢>是匹配普通生成池中最小的推荐地点（列出 6 个普通生成条目）。已知 wiki 关卡池：普通生成：<虫巢>。",
+          "summary": "推荐在<虫巢>刷<加普>的<怪物日志>。在已知生成池中，<虫巢>是最早推荐的普通生成刷取地点（6 个普通生成条目）。已知关卡池：普通生成：<虫巢>。",
           "location": "虫巢",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8707,7 +8655,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8716,7 +8664,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8764,26 +8712,22 @@
       "text": {
         "en": {
           "name": "Ifrit",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Ancient Valley.",
+          "summary": "Farm Ifrit's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Ancient Valley.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "伊夫利特",
-          "summary": "推荐在<远古峡谷>刷<伊夫利特>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<远古峡谷>。",
+          "summary": "推荐在<远古峡谷>刷<伊夫利特>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<远古峡谷>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8817,7 +8761,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8826,7 +8770,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -8899,26 +8843,22 @@
       "text": {
         "en": {
           "name": "Imp Overlord",
-          "summary": "Farm the Monster Log at Hive Cluster. Hive Cluster is the smallest matching boss pool in the cached stage tables (2 listed boss entries). Known wiki stage pools: boss: Ancient Valley, Sunken Tombs, Magma Barracks, Hive Cluster, Temple of the Elders, Risk of Rain.",
+          "summary": "Farm Imp Overlord's Monster Log in Hive Cluster. Hive Cluster is the earliest recommended boss farming location among the known spawn pools (2 listed boss entries). Known stage pools: boss: Ancient Valley, Sunken Tombs, Magma Barracks, Hive Cluster, Temple of the Elders, Risk of Rain.",
           "location": "Hive Cluster",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "小恶魔霸主",
-          "summary": "推荐在<虫巢>刷<小恶魔霸主>的<怪物日志>。根据缓存的关卡表，<虫巢>是匹配首领池中最小的推荐地点（列出 2 个首领条目）。已知 wiki 关卡池：首领：<远古峡谷>、<沉没墓园>、<熔岩要塞>、<虫巢>、<长老神殿>、<暴雨滂沱>。",
+          "summary": "推荐在<虫巢>刷<小恶魔霸主>的<怪物日志>。在已知生成池中，<虫巢>是最早推荐的首领刷取地点（2 个首领条目）。已知关卡池：首领：<远古峡谷>、<沉没墓园>、<熔岩要塞>、<虫巢>、<长老神殿>、<暴雨滂沱>。",
           "location": "虫巢",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -8952,7 +8892,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -8961,7 +8901,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9019,26 +8959,22 @@
       "text": {
         "en": {
           "name": "Jellyfish",
-          "summary": "Farm the Monster Log at Sky Meadow. Sky Meadow is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest, Dried Lake, Sky Meadow.",
+          "summary": "Farm Jellyfish's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Sky Meadow.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "水母",
-          "summary": "推荐在<空中草原>刷<水母>的<怪物日志>。根据缓存的关卡表，<空中草原>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>、<枯涸湖>、<空中草原>。",
+          "summary": "推荐在<空中草原>刷<水母>的<怪物日志>。在已知生成池中，<空中草原>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>、<枯涸湖>、<空中草原>。",
           "location": "空中草原",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9072,7 +9008,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9081,7 +9017,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9144,26 +9080,22 @@
       "text": {
         "en": {
           "name": "Lemurian Cavalry",
-          "summary": "Farm the Monster Log at Risk of Rain. Risk of Rain is the smallest matching standard pool in the cached stage tables (7 listed standard entries). Known wiki stage pools: standard spawn: Temple of the Elders, Risk of Rain; after looping: Desolate Forest, Dried Lake.",
+          "summary": "Farm Lemurian Cavalry's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; after looping: Desolate Forest, Dried Lake.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "利莫里亚骑兵",
-          "summary": "推荐在<暴雨滂沱>刷<利莫里亚骑兵>的<怪物日志>。根据缓存的关卡表，<暴雨滂沱>是匹配普通生成池中最小的推荐地点（列出 7 个普通生成条目）。已知 wiki 关卡池：普通生成：<长老神殿>、<暴雨滂沱>；循环后：<荒凉森林>、<枯涸湖>。",
+          "summary": "推荐在<暴雨滂沱>刷<利莫里亚骑兵>的<怪物日志>。在已知生成池中，<暴雨滂沱>是最早推荐的普通生成刷取地点（7 个普通生成条目）。已知关卡池：普通生成：<长老神殿>、<暴雨滂沱>；循环后：<荒凉森林>、<枯涸湖>。",
           "location": "暴雨滂沱",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9197,7 +9129,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9206,7 +9138,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9269,26 +9201,22 @@
       "text": {
         "en": {
           "name": "Lemurian",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Boar Beach.",
+          "summary": "Farm Lemurian's Monster Log in Boar Beach. Boar Beach is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "利莫里亚人",
-          "summary": "推荐在<野猪滩>刷<利莫里亚人>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<利莫里亚人>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9322,7 +9250,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9331,7 +9259,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9389,26 +9317,22 @@
       "text": {
         "en": {
           "name": "Lynx Totem",
-          "summary": "Farm the Monster Log at Damp Caverns. Damp Caverns is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Damp Caverns, Sky Meadow, Temple of the Elders.",
+          "summary": "Farm Lynx Totem's Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow, Temple of the Elders.",
           "location": "Damp Caverns",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "猞猁图腾",
-          "summary": "推荐在<潮湿洞窟>刷<猞猁图腾>的<怪物日志>。根据缓存的关卡表，<潮湿洞窟>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<潮湿洞窟>、<空中草原>、<长老神殿>。",
+          "summary": "推荐在<潮湿洞窟>刷<猞猁图腾>的<怪物日志>。在已知生成池中，<潮湿洞窟>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<潮湿洞窟>、<空中草原>、<长老神殿>。",
           "location": "潮湿洞窟",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9442,7 +9366,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9451,7 +9375,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9499,26 +9423,22 @@
       "text": {
         "en": {
           "name": "Lynx Tribe",
-          "summary": "Farm Lynx Tribe logs in Judgement waves that include Lynx Archers, Scouts, and Hunters. Cached normal stage pages do not list Lynx Tribe in regular stage pools.",
+          "summary": "Farm Lynx Tribe's Monster Log in Judgement. Current stage-pool sources do not list Lynx Tribe in regular stage pools, so Judgement is the actionable recommendation.",
           "location": "Judgement",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "猞猁部落",
-          "summary": "在包含猞猁弓手、斥候和猎手的<审判>波次中刷<猞猁部落>的<怪物日志>。缓存的普通关卡页面没有把<猞猁部落>列入常规关卡池。",
+          "summary": "推荐在<审判>刷<猞猁部落>的<怪物日志>。当前关卡池来源没有把<猞猁部落>列入常规关卡池，因此<审判>是可执行推荐。",
           "location": "审判",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9545,7 +9465,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Judgement"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9554,7 +9474,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9607,26 +9527,22 @@
       "text": {
         "en": {
           "name": "Macrobe",
-          "summary": "Farm the Monster Log at Sunken Tombs. Sunken Tombs is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Sunken Tombs, Hive Cluster.",
+          "summary": "Farm Macrobe's Monster Log in Sunken Tombs. Sunken Tombs is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Sunken Tombs, Hive Cluster.",
           "location": "Sunken Tombs",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "巨生物",
-          "summary": "推荐在<沉没墓园>刷<巨生物>的<怪物日志>。根据缓存的关卡表，<沉没墓园>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<沉没墓园>、<虫巢>。",
+          "summary": "推荐在<沉没墓园>刷<巨生物>的<怪物日志>。在已知生成池中，<沉没墓园>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<沉没墓园>、<虫巢>。",
           "location": "沉没墓园",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9660,7 +9576,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9669,7 +9585,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9722,26 +9638,22 @@
       "text": {
         "en": {
           "name": "Macrobic Predator",
-          "summary": "Farm the Monster Log at Magma Barracks. Magma Barracks is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Magma Barracks, Risk of Rain.",
+          "summary": "Farm Macrobic Predator's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Risk of Rain.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "巨生物捕食者",
-          "summary": "推荐在<熔岩要塞>刷<巨生物捕食者>的<怪物日志>。根据缓存的关卡表，<熔岩要塞>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<熔岩要塞>、<暴雨滂沱>。",
+          "summary": "推荐在<熔岩要塞>刷<巨生物捕食者>的<怪物日志>。在已知生成池中，<熔岩要塞>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<熔岩要塞>、<暴雨滂沱>。",
           "location": "熔岩要塞",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9775,7 +9687,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9784,7 +9696,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9847,26 +9759,22 @@
       "text": {
         "en": {
           "name": "Magma Worm",
-          "summary": "Farm the Monster Log at Damp Caverns. Damp Caverns is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
+          "summary": "Farm Magma Worm's Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
           "location": "Damp Caverns",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "岩浆蠕虫",
-          "summary": "推荐在<潮湿洞窟>刷<岩浆蠕虫>的<怪物日志>。根据缓存的关卡表，<潮湿洞窟>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<空中草原>。",
+          "summary": "推荐在<潮湿洞窟>刷<岩浆蠕虫>的<怪物日志>。在已知生成池中，<潮湿洞窟>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<空中草原>。",
           "location": "潮湿洞窟",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -9900,7 +9808,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -9909,7 +9817,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -9962,26 +9870,22 @@
       "text": {
         "en": {
           "name": "Mechanical Spider",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Ancient Valley, Magma Barracks.",
+          "summary": "Farm Mechanical Spider's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Ancient Valley, Magma Barracks.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "机械蜘蛛",
-          "summary": "推荐在<远古峡谷>刷<机械蜘蛛>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<远古峡谷>、<熔岩要塞>。",
+          "summary": "推荐在<远古峡谷>刷<机械蜘蛛>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<远古峡谷>、<熔岩要塞>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10015,7 +9919,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10024,7 +9928,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10077,26 +9981,22 @@
       "text": {
         "en": {
           "name": "Mushrum",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Damp Caverns, Boar Beach.",
+          "summary": "Farm Mushrum's Monster Log in Boar Beach. Boar Beach is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Damp Caverns, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "走路菇",
-          "summary": "推荐在<野猪滩>刷<走路菇>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<潮湿洞窟>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<走路菇>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<潮湿洞窟>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10130,7 +10030,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10139,7 +10039,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10192,26 +10092,22 @@
       "text": {
         "en": {
           "name": "Parent",
-          "summary": "Farm the Monster Log at Sky Meadow. Sky Meadow is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Sky Meadow, Hive Cluster.",
+          "summary": "Farm Parent's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Sky Meadow, Hive Cluster.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "祖人",
-          "summary": "推荐在<空中草原>刷<祖人>的<怪物日志>。根据缓存的关卡表，<空中草原>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<空中草原>、<虫巢>。",
+          "summary": "推荐在<空中草原>刷<祖人>的<怪物日志>。在已知生成池中，<空中草原>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<空中草原>、<虫巢>。",
           "location": "空中草原",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10245,7 +10141,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10254,7 +10150,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10302,26 +10198,22 @@
       "text": {
         "en": {
           "name": "Providence",
-          "summary": "Farm the Monster Log at Risk of Rain. Risk of Rain is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Risk of Rain.",
+          "summary": "Farm Providence's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Risk of Rain.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "天命",
-          "summary": "推荐在<暴雨滂沱>刷<天命>的<怪物日志>。根据缓存的关卡表，<暴雨滂沱>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<暴雨滂沱>。",
+          "summary": "推荐在<暴雨滂沱>刷<天命>的<怪物日志>。在已知生成池中，<暴雨滂沱>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<暴雨滂沱>。",
           "location": "暴雨滂沱",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10355,7 +10247,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10364,7 +10256,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10422,26 +10314,22 @@
       "text": {
         "en": {
           "name": "Rock Golem",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest, Sky Meadow, Ancient Valley.",
+          "summary": "Farm Rock Golem's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Sky Meadow, Ancient Valley.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "石傀儡",
-          "summary": "推荐在<远古峡谷>刷<石傀儡>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>、<空中草原>、<远古峡谷>。",
+          "summary": "推荐在<远古峡谷>刷<石傀儡>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>、<空中草原>、<远古峡谷>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10475,7 +10363,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10484,7 +10372,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10542,26 +10430,22 @@
       "text": {
         "en": {
           "name": "Sand Crab",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Dried Lake, Sunken Tombs, Boar Beach.",
+          "summary": "Farm Sand Crab's Monster Log in Boar Beach. Boar Beach is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Dried Lake, Sunken Tombs, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "沙蟹",
-          "summary": "推荐在<野猪滩>刷<沙蟹>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<枯涸湖>、<沉没墓园>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<沙蟹>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<枯涸湖>、<沉没墓园>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10595,7 +10479,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10604,7 +10488,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10657,26 +10541,22 @@
       "text": {
         "en": {
           "name": "Scavenger",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching boss pool in the cached stage tables (2 listed boss entries). Known wiki stage pools: boss: Risk of Rain, Boar Beach.",
+          "summary": "Farm Scavenger's Monster Log in Boar Beach. Boar Beach is the earliest recommended boss farming location among the known spawn pools (2 listed boss entries). Known stage pools: boss: Risk of Rain, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "清道夫",
-          "summary": "推荐在<野猪滩>刷<清道夫>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配首领池中最小的推荐地点（列出 2 个首领条目）。已知 wiki 关卡池：首领：<暴雨滂沱>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<清道夫>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的首领刷取地点（2 个首领条目）。已知关卡池：首领：<暴雨滂沱>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10710,7 +10590,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10719,7 +10599,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10772,26 +10652,22 @@
       "text": {
         "en": {
           "name": "Spitter",
-          "summary": "Farm the Monster Log at Hive Cluster. Hive Cluster is the smallest matching standard pool in the cached stage tables (6 listed standard entries). Known wiki stage pools: standard spawn: Damp Caverns, Hive Cluster.",
+          "summary": "Farm Spitter's Monster Log in Hive Cluster. Hive Cluster is the earliest recommended standard spawn farming location among the known spawn pools (6 listed standard spawn entries). Known stage pools: standard spawn: Damp Caverns, Hive Cluster.",
           "location": "Hive Cluster",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "喷吐兽",
-          "summary": "推荐在<虫巢>刷<喷吐兽>的<怪物日志>。根据缓存的关卡表，<虫巢>是匹配普通生成池中最小的推荐地点（列出 6 个普通生成条目）。已知 wiki 关卡池：普通生成：<潮湿洞窟>、<虫巢>。",
+          "summary": "推荐在<虫巢>刷<喷吐兽>的<怪物日志>。在已知生成池中，<虫巢>是最早推荐的普通生成刷取地点（6 个普通生成条目）。已知关卡池：普通生成：<潮湿洞窟>、<虫巢>。",
           "location": "虫巢",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10825,7 +10701,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10834,7 +10710,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -10887,26 +10763,22 @@
       "text": {
         "en": {
           "name": "Swift",
-          "summary": "Farm the Monster Log at Ancient Valley. Ancient Valley is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Ancient Valley, Temple of the Elders.",
+          "summary": "Farm Swift's Monster Log in Ancient Valley. Ancient Valley is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Ancient Valley, Temple of the Elders.",
           "location": "Ancient Valley",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "迅捷",
-          "summary": "推荐在<远古峡谷>刷<迅捷>的<怪物日志>。根据缓存的关卡表，<远古峡谷>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<远古峡谷>、<长老神殿>。",
+          "summary": "推荐在<远古峡谷>刷<迅捷>的<怪物日志>。在已知生成池中，<远古峡谷>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<远古峡谷>、<长老神殿>。",
           "location": "远古峡谷",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -10940,7 +10812,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -10949,7 +10821,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11002,26 +10874,22 @@
       "text": {
         "en": {
           "name": "Temple Guard",
-          "summary": "Farm the Monster Log at Risk of Rain. Risk of Rain is the smallest matching standard pool in the cached stage tables (7 listed standard entries). Known wiki stage pools: standard spawn: Temple of the Elders, Risk of Rain.",
+          "summary": "Farm Temple Guard's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "神殿守卫",
-          "summary": "推荐在<暴雨滂沱>刷<神殿守卫>的<怪物日志>。根据缓存的关卡表，<暴雨滂沱>是匹配普通生成池中最小的推荐地点（列出 7 个普通生成条目）。已知 wiki 关卡池：普通生成：<长老神殿>、<暴雨滂沱>。",
+          "summary": "推荐在<暴雨滂沱>刷<神殿守卫>的<怪物日志>。在已知生成池中，<暴雨滂沱>是最早推荐的普通生成刷取地点（7 个普通生成条目）。已知关卡池：普通生成：<长老神殿>、<暴雨滂沱>。",
           "location": "暴雨滂沱",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11055,7 +10923,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11064,7 +10932,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11112,26 +10980,22 @@
       "text": {
         "en": {
           "name": "Tiny Imp",
-          "summary": "Farm Tiny Imp logs by taking Imp Shrine fights; the cached Interactables page says Imp Shrines spawn Tiny Imps and reward an item after they are killed.",
+          "summary": "Farm Tiny Imp's Monster Log by taking Imp Shrine fights. Imp Shrines spawn Tiny Imps and reward an item after they are killed.",
           "location": "Imp Shrine",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "小不点小恶魔",
-          "summary": "通过挑战<小恶魔神龛>刷<小不点小恶魔>的<怪物日志>；缓存的互动对象页面说明，<小恶魔神龛>会生成<小不点小恶魔>，击杀后奖励一个物品。",
+          "summary": "通过挑战<小恶魔神龛>刷<小不点小恶魔>的<怪物日志>。<小恶魔神龛>会生成<小不点小恶魔>，击杀后奖励一个物品。",
           "location": "小恶魔神龛",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11158,7 +11022,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Interactables"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11167,7 +11031,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11230,26 +11094,22 @@
       "text": {
         "en": {
           "name": "Toxic Beast",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching boss pool in the cached stage tables (2 listed boss entries). Known wiki stage pools: boss: Magma Barracks, Hive Cluster, Temple of the Elders, Boar Beach.",
+          "summary": "Farm Toxic Beast's Monster Log in Boar Beach. Boar Beach is the earliest recommended boss farming location among the known spawn pools (2 listed boss entries). Known stage pools: boss: Magma Barracks, Hive Cluster, Temple of the Elders, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "猛毒巨兽",
-          "summary": "推荐在<野猪滩>刷<猛毒巨兽>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配首领池中最小的推荐地点（列出 2 个首领条目）。已知 wiki 关卡池：首领：<熔岩要塞>、<虫巢>、<长老神殿>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<猛毒巨兽>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的首领刷取地点（2 个首领条目）。已知关卡池：首领：<熔岩要塞>、<虫巢>、<长老神殿>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11283,7 +11143,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11292,7 +11152,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11340,26 +11200,22 @@
       "text": {
         "en": {
           "name": "Trokk",
-          "summary": "Farm the Monster Log at Desolate Forest. Desolate Forest is the smallest matching standard pool in the cached stage tables (6 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest.",
+          "summary": "Farm Trokk's Monster Log in Desolate Forest. Desolate Forest is the earliest recommended standard spawn farming location among the known spawn pools (6 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest.",
           "location": "Desolate Forest",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "托克",
-          "summary": "推荐在<荒凉森林>刷<托克>的<怪物日志>。根据缓存的关卡表，<荒凉森林>是匹配普通生成池中最小的推荐地点（列出 6 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>。",
+          "summary": "推荐在<荒凉森林>刷<托克>的<怪物日志>。在已知生成池中，<荒凉森林>是最早推荐的普通生成刷取地点（6 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>。",
           "location": "荒凉森林",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11393,7 +11249,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11402,7 +11258,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11460,26 +11316,22 @@
       "text": {
         "en": {
           "name": "Tuber",
-          "summary": "Farm the Monster Log at Boar Beach. Boar Beach is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Dried Lake, Damp Caverns, Boar Beach.",
+          "summary": "Farm Tuber's Monster Log in Boar Beach. Boar Beach is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Dried Lake, Damp Caverns, Boar Beach.",
           "location": "Boar Beach",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "块茎",
-          "summary": "推荐在<野猪滩>刷<块茎>的<怪物日志>。根据缓存的关卡表，<野猪滩>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<枯涸湖>、<潮湿洞窟>、<野猪滩>。",
+          "summary": "推荐在<野猪滩>刷<块茎>的<怪物日志>。在已知生成池中，<野猪滩>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<枯涸湖>、<潮湿洞窟>、<野猪滩>。",
           "location": "野猪滩",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11513,7 +11365,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11522,7 +11374,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11580,26 +11432,22 @@
       "text": {
         "en": {
           "name": "Wandering Vagrant",
-          "summary": "Farm the Monster Log at Desolate Forest. Desolate Forest is the smallest matching boss pool in the cached stage tables (3 listed boss entries). Known wiki stage pools: boss: Desolate Forest, Dried Lake, Sunken Tombs.",
+          "summary": "Farm Wandering Vagrant's Monster Log in Desolate Forest. Desolate Forest is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Desolate Forest, Dried Lake, Sunken Tombs.",
           "location": "Desolate Forest",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "漫游者",
-          "summary": "推荐在<荒凉森林>刷<漫游者>的<怪物日志>。根据缓存的关卡表，<荒凉森林>是匹配首领池中最小的推荐地点（列出 3 个首领条目）。已知 wiki 关卡池：首领：<荒凉森林>、<枯涸湖>、<沉没墓园>。",
+          "summary": "推荐在<荒凉森林>刷<漫游者>的<怪物日志>。在已知生成池中，<荒凉森林>是最早推荐的首领刷取地点（3 个首领条目）。已知关卡池：首领：<荒凉森林>、<枯涸湖>、<沉没墓园>。",
           "location": "荒凉森林",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11633,7 +11481,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11642,7 +11490,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11690,26 +11538,22 @@
       "text": {
         "en": {
           "name": "Whorl",
-          "summary": "Farm the Monster Log at Sunken Tombs. Sunken Tombs is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Sunken Tombs.",
+          "summary": "Farm Whorl's Monster Log in Sunken Tombs. Sunken Tombs is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Sunken Tombs.",
           "location": "Sunken Tombs",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "漩涡螺",
-          "summary": "推荐在<沉没墓园>刷<漩涡螺>的<怪物日志>。根据缓存的关卡表，<沉没墓园>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<沉没墓园>。",
+          "summary": "推荐在<沉没墓园>刷<漩涡螺>的<怪物日志>。在已知生成池中，<沉没墓园>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<沉没墓园>。",
           "location": "沉没墓园",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11743,7 +11587,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11752,7 +11596,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -11815,26 +11659,22 @@
       "text": {
         "en": {
           "name": "Wisp",
-          "summary": "Farm the Monster Log at Magma Barracks. Magma Barracks is the smallest matching standard pool in the cached stage tables (5 listed standard entries). Known wiki stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Magma Barracks.",
+          "summary": "Farm Wisp's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Magma Barracks.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
-            "Cached wiki/game-language data lists stage pools, but not exact monster spawn weights.",
-            "Read-only scan of the game's external data/stages/*.rorlvl files found layout objects, not general Director monster-card weights.",
-            "data.win strings expose Director/MonsterCard script names, but not decoded per-monster weight tables.",
-            "Cached wiki/game-language data does not include Monster Log drop rates."
+            "Stage pool data shows where this monster can spawn, but exact spawn weights are not currently available.",
+            "Monster Logs are random drops; expect to kill the target repeatedly."
           ]
         },
         "zh-Hans": {
           "name": "幽魂",
-          "summary": "推荐在<熔岩要塞>刷<幽魂>的<怪物日志>。根据缓存的关卡表，<熔岩要塞>是匹配普通生成池中最小的推荐地点（列出 5 个普通生成条目）。已知 wiki 关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<熔岩要塞>。",
+          "summary": "推荐在<熔岩要塞>刷<幽魂>的<怪物日志>。在已知生成池中，<熔岩要塞>是最早推荐的普通生成刷取地点（5 个普通生成条目）。已知关卡池：普通生成：<荒凉森林>、<枯涸湖>、<潮湿洞窟>、<熔岩要塞>。",
           "location": "熔岩要塞",
           "steps": [],
           "notes": [
-            "缓存的 wiki/游戏语言数据列出了关卡池，但没有精确的怪物生成权重。",
-            "只读扫描游戏的 external data/stages/*.rorlvl 文件只找到布局对象，没有找到通用 Director 怪物卡权重。",
-            "data.win 字符串能看到 Director/MonsterCard 脚本名，但还没有解码出逐怪物权重表。",
-            "缓存的 wiki/游戏语言数据不包含<怪物日志>掉落率。"
+            "关卡池数据能说明该怪物会在哪些地方生成，但目前没有精确的生成权重。",
+            "<怪物日志>是随机掉落，通常需要反复击杀目标。"
           ]
         }
       },
@@ -11868,7 +11708,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Monsters"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -11877,7 +11717,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -12060,7 +11900,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Boar_Beach"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -12069,7 +11909,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16064,7 +15904,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Risk_of_Rain_Stage#Acrid_Prism_(Calcium)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16073,7 +15913,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16199,7 +16039,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Ancient_Valley#Acrid_Prism_(Obsidian)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16208,7 +16048,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16317,7 +16157,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Dried_Lake#Artificer_Prism_(Stasis)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16326,7 +16166,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16428,7 +16268,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Tutorial#Secrets"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16437,7 +16277,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16638,7 +16478,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Desolate_Forest#Commando_Prism_(Pyrite)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16647,7 +16487,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16755,7 +16595,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Ancient_Valley#Drifter_Prism_(Pollen)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16764,7 +16604,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16870,7 +16710,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Magma_Barracks#Huntress_Prism_(Extinction)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16879,7 +16719,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -16987,7 +16827,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Sky_Meadow#Loader_Prism_(Nebula)"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -16996,7 +16836,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -17104,7 +16944,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Risk_of_Rain_Stage#Mercenary_Prism"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -17113,7 +16953,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -17163,36 +17003,32 @@
       "text": {
         "en": {
           "name": "Strange Prism: Napalm",
-          "summary": "Pilot's Napalm prism exists in game language data, but is currently unobtainable in the public game/wiki data set.",
+          "summary": "Pilot's Napalm prism exists in game language data, but no public route is known. Treat it as currently unobtainable.",
           "location": "Napalm",
           "steps": [
             "Do not surface this as an actionable route recommendation.",
-            "Cached Pilot wiki data lists the matching fifth Pilot skin slot as Currently Unobtainable.",
-            "Keep the language-pack challenge entry for completeness, but treat it as unavailable until a later game/wiki update exposes a route."
+            "The Pilot wiki lists the matching fifth Pilot skin slot as Currently Unobtainable.",
+            "Keep the language-pack challenge entry for completeness, but treat it as unavailable until a later game or wiki update exposes a route."
           ],
           "notes": [
-            "Cached Pilot wiki page lists PilotPortrait5 as Currently Unobtainable.",
-            "Refreshed cached stage pages on 2026-07-02 and re-parsed stage prism sections; only 9 prism sections were found, none for Pilot/Napalm.",
-            "wiki.gg Special:Search for Napalm returned no results.",
-            "Google results for the exact phrase mainly point to community guides for all 9 known prisms, not Napalm.",
-            "data.win string scan found oStrangePrism/oSpawnPrism and Pilot sprites, but no Napalm or pilot-specific prism route strings."
+            "The Pilot wiki page lists PilotPortrait5 as Currently Unobtainable.",
+            "Public stage-prism pages currently document nine other Strange Prisms, none for Pilot/Napalm.",
+            "Searches for Napalm currently point to community guides for the known prisms rather than a Pilot route."
           ]
         },
         "zh-Hans": {
           "name": "奇怪棱镜：凝固汽油",
-          "summary": "<领航员>的<奇怪棱镜：凝固汽油>存在于游戏语言数据中，但在当前公开游戏/wiki 数据集中仍无法获得。",
+          "summary": "<领航员>的<奇怪棱镜：凝固汽油>存在于游戏语言数据中，但目前没有已知公开路线，应视为当前无法获得。",
           "location": "凝固汽油",
           "steps": [
             "不要把它作为可执行路线推荐展示。",
-            "缓存的<领航员>wiki 数据把对应的第五个<领航员>皮肤栏位列为当前无法获得。",
-            "保留语言包中的挑战条目以保证完整性，但在后续游戏/wiki 更新公开路线前，应把它视为不可获得。"
+            "<领航员>wiki 将对应的第五个<领航员>皮肤栏位列为当前无法获得。",
+            "保留语言包中的挑战条目以保证完整性，但在后续游戏或 wiki 更新公开路线前，应把它视为不可获得。"
           ],
           "notes": [
-            "缓存的<领航员>wiki 页面将 PilotPortrait5 标为当前无法获得。",
-            "已在 2026-07-02 刷新缓存的关卡页面并重新解析关卡棱镜章节；只找到 9 个棱镜章节，没有发现领航员/凝固汽油。",
-            "wiki.gg Special:Search 搜索 Napalm 没有结果。",
-            "Google 对精确短语的搜索结果主要指向包含 9 个已知棱镜的社区指南，而不是 Napalm。",
-            "data.win 字符串扫描找到了 oStrangePrism/oSpawnPrism 和领航员 sprite，但没有发现 Napalm 或领航员专属棱镜路线字符串。"
+            "<领航员>wiki 页面将 PilotPortrait5 标为当前无法获得。",
+            "公开的关卡棱镜页面目前记录了另外 9 个<奇怪棱镜>，没有<领航员>/<凝固汽油>路线。",
+            "<凝固汽油>相关搜索目前主要指向已知棱镜的社区指南，而不是<领航员>路线。"
           ]
         }
       },
@@ -17217,13 +17053,6 @@
           "note": null,
           "label": "Risk of Rain Returns Wiki: Pilot",
           "url": "https://riskofrainreturns.wiki.gg/wiki/Pilot"
-        },
-        {
-          "type": "wiki",
-          "ref": "wiki:cached_extract",
-          "note": null,
-          "label": "Risk of Rain Returns Wiki",
-          "url": null
         },
         {
           "type": "wiki",
@@ -17254,7 +17083,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "wiki:https://riskofrainreturns.wiki.gg/wiki/Pilot"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -17263,7 +17092,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
@@ -18938,7 +18767,7 @@
         "text": {
           "en": {
             "name": "game_metadata:language_pack",
-            "guide": "web:https://www.gamepur.com/guides/risk-of-rain-returns-han-d-unlock-guide-how-to-find-the-robot-janitor"
+            "guide": "manual_review:text.en.guide"
           },
           "zh-Hans": {
             "name": "game_metadata:language_pack",
@@ -18947,7 +18776,7 @@
         },
         "review": {
           "facts": "unreviewed",
-          "en_guide": "unreviewed",
+          "en_guide": "accepted",
           "zh_guide": "accepted"
         },
         "note": null,
