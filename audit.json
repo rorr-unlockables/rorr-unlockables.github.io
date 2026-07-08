@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-08T03:12:53.330Z",
+  "summary": {
+    "unlockables": 241,
+    "issues": 0,
+    "issue_groups": 0,
+    "by_severity": {},
+    "by_area": {},
+    "by_category": {
+      "artifact": 14,
+      "item": 60,
+      "monster_log": 40,
+      "other": 1,
+      "secret_stage": 1,
+      "skill": 41,
+      "skin": 11,
+      "stage": 10,
+      "survivor": 13,
+      "trial": 50
+    },
+    "achievement_backed": 140
+  },
+  "issues": []
+}
