@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T09:59:00.388Z",
+  "generated_at": "2026-07-17T12:57:27.690Z",
   "locales": [
     "en",
     "zh-Hans"
@@ -133,7 +133,7 @@
     "artifact.kin": {
       "id": "artifact.kin",
       "type": "artifact",
-      "icon": "icons/ArtifactofKin.png",
+      "icon": "icons/ArtifactofKin_Select.png",
       "owner": null,
       "name": {
         "en": "Kin",
@@ -413,7 +413,7 @@
     "item.hermitsScarf": {
       "id": "item.hermitsScarf",
       "type": "item",
-      "icon": "icons/PilotZ2.png",
+      "icon": "icons/Hermitsscarf.png",
       "owner": null,
       "name": {
         "en": "Hermit's Scarf",
@@ -423,7 +423,7 @@
     "item.hopooFeather": {
       "id": "item.hopooFeather",
       "type": "item",
-      "icon": null,
+      "icon": "icons/Hopoofeather.png",
       "owner": null,
       "name": {
         "en": "Hopoo Feather",
@@ -643,7 +643,7 @@
     "item.rustyJetpack": {
       "id": "item.rustyJetpack",
       "type": "item",
-      "icon": null,
+      "icon": "icons/Rustyjetpack.png",
       "owner": null,
       "name": {
         "en": "Rusty Jetpack",
@@ -1713,7 +1713,7 @@
     "skin.huntress.huntress_skin_s": {
       "id": "skin.huntress.huntress_skin_s",
       "type": "skin",
-      "icon": "icons/StrangePrismExtinction.png",
+      "icon": "icons/HuntressPortrait0.png",
       "owner": "survivor.huntress",
       "name": {
         "en": "Strange Prism: Extinction",
@@ -1763,7 +1763,7 @@
     "stage.boarBeach": {
       "id": "stage.boarBeach",
       "type": "stage",
-      "icon": "icons/AncientValleySC.png",
+      "icon": "icons/BoarBeachSC.png",
       "owner": null,
       "name": {
         "en": "Boar Beach",
@@ -1807,7 +1807,7 @@
       "owner": null,
       "name": {
         "en": "First Stage Pool",
-        "zh-Hans": "First Stage Pool"
+        "zh-Hans": "第一关卡池"
       }
     },
     "stage.firstThreeStages": {
@@ -1817,7 +1817,7 @@
       "owner": null,
       "name": {
         "en": "First Three Stages",
-        "zh-Hans": "First Three Stages"
+        "zh-Hans": "前三关"
       }
     },
     "stage.hiveCluster": {
@@ -1837,7 +1837,7 @@
       "owner": null,
       "name": {
         "en": "Imp Shrine",
-        "zh-Hans": "Imp Shrine"
+        "zh-Hans": "小恶魔神龛"
       }
     },
     "stage.judgement": {
@@ -1847,7 +1847,7 @@
       "owner": null,
       "name": {
         "en": "Judgement",
-        "zh-Hans": "Judgement"
+        "zh-Hans": "审判"
       }
     },
     "stage.magmaBarracks": {
@@ -1907,7 +1907,7 @@
       "owner": null,
       "name": {
         "en": "Third Stage Pool",
-        "zh-Hans": "Third Stage Pool"
+        "zh-Hans": "第三关卡池"
       }
     },
     "stage.tutorial": {
@@ -1917,7 +1917,7 @@
       "owner": null,
       "name": {
         "en": "Tutorial",
-        "zh-Hans": "Tutorial"
+        "zh-Hans": "教程"
       }
     },
     "survivor.acrid": {
@@ -1953,7 +1953,7 @@
     "survivor.chef": {
       "id": "survivor.chef",
       "type": "survivor",
-      "icon": "icons/Friedeyeball.png",
+      "icon": "icons/CHEFPortrait0.png",
       "owner": null,
       "name": {
         "en": "CHEF",
@@ -1963,11 +1963,11 @@
     "survivor.commando": {
       "id": "survivor.commando",
       "type": "survivor",
-      "icon": null,
+      "icon": "icons/CommandoPortrait0.png",
       "owner": null,
       "name": {
         "en": "Commando",
-        "zh-Hans": "Commando"
+        "zh-Hans": "指挥官"
       }
     },
     "survivor.drifter": {
@@ -1983,7 +1983,7 @@
     "survivor.enforcer": {
       "id": "survivor.enforcer",
       "type": "survivor",
-      "icon": "icons/EnforcerC1.png",
+      "icon": "icons/EnforcerPortrait0.png",
       "owner": null,
       "name": {
         "en": "Enforcer",
@@ -2013,11 +2013,11 @@
     "survivor.huntress": {
       "id": "survivor.huntress",
       "type": "survivor",
-      "icon": null,
+      "icon": "icons/HuntressPortrait0.png",
       "owner": null,
       "name": {
         "en": "Huntress",
-        "zh-Hans": "Huntress"
+        "zh-Hans": "女猎人"
       }
     },
     "survivor.loader": {
@@ -3561,14 +3561,14 @@
       "entity": {
         "id": "artifact.kin",
         "type": "artifact",
-        "icon": "icons/ArtifactofKin.png",
+        "icon": "icons/ArtifactofKin_Select.png",
         "owner": null,
         "name": {
           "en": "Kin",
           "zh-Hans": "亲族"
         }
       },
-      "icon": "icons/ArtifactofKin.png",
+      "icon": "icons/ArtifactofKin_Select.png",
       "facets": {
         "owner_survivors": [],
         "required_survivors": [],
@@ -3854,7 +3854,7 @@
           "steps": [
             "Route into Magma Barracks Stage Variant #1, #2, or #3 on any ruleset.",
             "Search throughout the stage for three buttons hidden behind walls.",
-            "Shoot all three hidden buttons. Evolved Lemurians can also hit the buttons, which helps characters that cannot attack through walls.",
+            "Shoot all three hidden buttons. {{monster.evolvedLemurian}}s can also hit the buttons, which helps characters that cannot attack through walls.",
             "Pick up the Artifact of Sacrifice after the button objective is completed."
           ],
           "notes": []
@@ -6482,14 +6482,14 @@
       "entity": {
         "id": "item.hermitsScarf",
         "type": "item",
-        "icon": "icons/PilotZ2.png",
+        "icon": "icons/Hermitsscarf.png",
         "owner": null,
         "name": {
           "en": "Hermit's Scarf",
           "zh-Hans": "隐士的围巾"
         }
       },
-      "icon": "icons/PilotZ2.png",
+      "icon": "icons/Hermitsscarf.png",
       "facets": {
         "owner_survivors": [],
         "required_survivors": [
@@ -8136,7 +8136,7 @@
       "text": {
         "en": {
           "name": "Predatory Instincts",
-          "summary": "Huntress: Defeat the Ancient Wisp without taking damage.",
+          "summary": "Huntress: Defeat the {{monster.ancientWisp}} without taking damage.",
           "location": null,
           "steps": [],
           "notes": []
@@ -10369,7 +10369,7 @@
       "text": {
         "en": {
           "name": "Ancient Wisp",
-          "summary": "Farm Ancient Wisp's Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow.",
+          "summary": "Farm {{monster.ancientWisp}}'s Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow.",
           "location": "Damp Caverns",
           "steps": [],
           "notes": [
@@ -11473,7 +11473,7 @@
       "text": {
         "en": {
           "name": "Elder Lemurian",
-          "summary": "Farm Elder Lemurian's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
+          "summary": "Farm {{monster.elderLemurian}}'s Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
@@ -11594,7 +11594,7 @@
       "text": {
         "en": {
           "name": "Evolved Lemurian",
-          "summary": "Farm Evolved Lemurian's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Hive Cluster.",
+          "summary": "Farm {{monster.evolvedLemurian}}'s Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Hive Cluster.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
@@ -11725,7 +11725,7 @@
       "text": {
         "en": {
           "name": "Greater Wisp",
-          "summary": "Farm Greater Wisp's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
+          "summary": "Farm {{monster.greaterWisp}}'s Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
@@ -15444,14 +15444,14 @@
       "entity": {
         "id": "stage.boarBeach",
         "type": "stage",
-        "icon": "icons/AncientValleySC.png",
+        "icon": "icons/BoarBeachSC.png",
         "owner": null,
         "name": {
           "en": "Boar Beach",
           "zh-Hans": "野猪滩"
         }
       },
-      "icon": "icons/AncientValleySC.png",
+      "icon": "icons/BoarBeachSC.png",
       "facets": {
         "owner_survivors": [],
         "required_survivors": [],
@@ -18951,7 +18951,7 @@
       "text": {
         "en": {
           "name": "Drill Dash",
-          "summary": "Kill 8 Elder Lemurians without losing your Scorching status.",
+          "summary": "Kill 8 {{monster.elderLemurian}}s without losing your Scorching status.",
           "location": null,
           "steps": [],
           "notes": []
@@ -20744,14 +20744,14 @@
       "entity": {
         "id": "skin.huntress.huntress_skin_s",
         "type": "skin",
-        "icon": "icons/StrangePrismExtinction.png",
+        "icon": "icons/HuntressPortrait0.png",
         "owner": "survivor.huntress",
         "name": {
           "en": "Strange Prism: Extinction",
           "zh-Hans": "奇怪棱镜：灭绝"
         }
       },
-      "icon": "icons/StrangePrismExtinction.png",
+      "icon": "icons/HuntressPortrait0.png",
       "facets": {
         "owner_survivors": [
           "survivor.huntress"
@@ -22589,14 +22589,14 @@
       "entity": {
         "id": "survivor.chef",
         "type": "survivor",
-        "icon": "icons/Friedeyeball.png",
+        "icon": "icons/CHEFPortrait0.png",
         "owner": null,
         "name": {
           "en": "CHEF",
           "zh-Hans": "大厨"
         }
       },
-      "icon": "icons/Friedeyeball.png",
+      "icon": "icons/CHEFPortrait0.png",
       "facets": {
         "owner_survivors": [
           "survivor.chef"
@@ -22791,14 +22791,14 @@
       "entity": {
         "id": "survivor.enforcer",
         "type": "survivor",
-        "icon": "icons/EnforcerC1.png",
+        "icon": "icons/EnforcerPortrait0.png",
         "owner": null,
         "name": {
           "en": "Enforcer",
           "zh-Hans": "执行者"
         }
       },
-      "icon": "icons/EnforcerC1.png",
+      "icon": "icons/EnforcerPortrait0.png",
       "facets": {
         "owner_survivors": [
           "survivor.enforcer"
@@ -24875,7 +24875,7 @@
       "text": {
         "en": {
           "name": "Brave Heart, Steady Hand",
-          "summary": "Stay close and <y>defeat the Elder Lemurian</c> utilizing your <b>Combat Knife</c>. Retreating results in more reinforcements.",
+          "summary": "Stay close and <y>defeat the {{monster.elderLemurian}}</c> utilizing your <b>Combat Knife</c>. Retreating results in more reinforcements.",
           "location": null,
           "steps": [],
           "notes": []
