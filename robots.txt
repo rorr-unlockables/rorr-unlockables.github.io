@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rorr-unlockables.github.io/sitemap.xml

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T15:43:14.532Z",
+  "generated_at": "2026-07-18T02:51:42.760Z",
   "locales": [
     "en",
     "zh-Hans"
@@ -5667,7 +5667,7 @@
           "steps": [
             "Route into Magma Barracks Stage Variant #1, #2, or #3 on any ruleset.",
             "Search throughout the stage for three buttons hidden behind walls.",
-            "Shoot all three hidden buttons. {{monster.evolvedLemurian}}s can also hit the buttons, which helps characters that cannot attack through walls.",
+            "Shoot all three hidden buttons. Evolved Lemurians can also hit the buttons, which helps characters that cannot attack through walls.",
             "Pick up the Artifact of Sacrifice after the button objective is completed."
           ],
           "notes": []
@@ -5803,14 +5803,14 @@
             ],
             [
               {
-                "text": "Shoot all three hidden buttons. {{monster.evolved"
+                "text": "Shoot all three hidden buttons. "
               },
               {
-                "entity": "monster.lemurian",
-                "label": "Lemurian"
+                "entity": "monster.evolvedLemurian",
+                "label": "Evolved Lemurian"
               },
               {
-                "text": "}}s can also hit the buttons, which helps characters that cannot attack through walls."
+                "text": "s can also hit the buttons, which helps characters that cannot attack through walls."
               }
             ],
             [
@@ -11909,7 +11909,7 @@
       "text": {
         "en": {
           "name": "Predatory Instincts",
-          "summary": "Huntress: Defeat the {{monster.ancientWisp}} without taking damage.",
+          "summary": "Huntress: Defeat the Ancient Wisp without taking damage.",
           "location": null,
           "steps": [],
           "notes": []
@@ -11981,14 +11981,14 @@
               "label": "Huntress"
             },
             {
-              "text": ": Defeat the {{monster.ancient"
+              "text": ": Defeat the "
             },
             {
-              "entity": "monster.wisp",
-              "label": "Wisp"
+              "entity": "monster.ancientWisp",
+              "label": "Ancient Wisp"
             },
             {
-              "text": "}} without taking damage."
+              "text": " without taking damage."
             }
           ],
           "location": [],
@@ -14944,7 +14944,7 @@
       "text": {
         "en": {
           "name": "Ancient Wisp",
-          "summary": "Farm {{monster.ancientWisp}}'s Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow.",
+          "summary": "Farm Ancient Wisp's Monster Log in Damp Caverns. Damp Caverns is the earliest recommended boss farming location among the known spawn pools (3 listed boss entries). Known stage pools: boss: Damp Caverns, Sky Meadow.",
           "location": "Damp Caverns",
           "steps": [],
           "notes": [
@@ -15025,14 +15025,14 @@
         "en": {
           "summary": [
             {
-              "text": "Farm {{monster.ancient"
+              "text": "Farm "
             },
             {
-              "entity": "monster.wisp",
-              "label": "Wisp"
+              "entity": "monster.ancientWisp",
+              "label": "Ancient Wisp"
             },
             {
-              "text": "}}'s Monster Log in "
+              "text": "'s Monster Log in "
             },
             {
               "entity": "stage.dampCaverns",
@@ -17201,7 +17201,7 @@
       "text": {
         "en": {
           "name": "Elder Lemurian",
-          "summary": "Farm {{monster.elderLemurian}}'s Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
+          "summary": "Farm Elder Lemurian's Monster Log in Risk of Rain. Risk of Rain is the earliest recommended standard spawn farming location among the known spawn pools (7 listed standard spawn entries). Known stage pools: standard spawn: Temple of the Elders, Risk of Rain; boss: Magma Barracks.",
           "location": "Risk of Rain",
           "steps": [],
           "notes": [
@@ -17282,14 +17282,14 @@
         "en": {
           "summary": [
             {
-              "text": "Farm {{monster.elder"
+              "text": "Farm "
             },
             {
-              "entity": "monster.lemurian",
-              "label": "Lemurian"
+              "entity": "monster.elderLemurian",
+              "label": "Elder Lemurian"
             },
             {
-              "text": "}}'s Monster Log in "
+              "text": "'s Monster Log in "
             },
             {
               "entity": "stage.riskOfRain",
@@ -17461,7 +17461,7 @@
       "text": {
         "en": {
           "name": "Evolved Lemurian",
-          "summary": "Farm {{monster.evolvedLemurian}}'s Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Hive Cluster.",
+          "summary": "Farm Evolved Lemurian's Monster Log in Magma Barracks. Magma Barracks is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Magma Barracks, Hive Cluster.",
           "location": "Magma Barracks",
           "steps": [],
           "notes": [
@@ -17542,14 +17542,14 @@
         "en": {
           "summary": [
             {
-              "text": "Farm {{monster.evolved"
+              "text": "Farm "
             },
             {
-              "entity": "monster.lemurian",
-              "label": "Lemurian"
+              "entity": "monster.evolvedLemurian",
+              "label": "Evolved Lemurian"
             },
             {
-              "text": "}}'s Monster Log in "
+              "text": "'s Monster Log in "
             },
             {
               "entity": "stage.magmaBarracks",
@@ -17717,7 +17717,7 @@
       "text": {
         "en": {
           "name": "Greater Wisp",
-          "summary": "Farm {{monster.greaterWisp}}'s Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
+          "summary": "Farm Greater Wisp's Monster Log in Sky Meadow. Sky Meadow is the earliest recommended standard spawn farming location among the known spawn pools (5 listed standard spawn entries). Known stage pools: standard spawn: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow.",
           "location": "Sky Meadow",
           "steps": [],
           "notes": [
@@ -17798,14 +17798,14 @@
         "en": {
           "summary": [
             {
-              "text": "Farm {{monster.greater"
+              "text": "Farm "
             },
             {
-              "entity": "monster.wisp",
-              "label": "Wisp"
+              "entity": "monster.greaterWisp",
+              "label": "Greater Wisp"
             },
             {
-              "text": "}}'s Monster Log in "
+              "text": "'s Monster Log in "
             },
             {
               "entity": "stage.skyMeadow",
@@ -30814,7 +30814,7 @@
       "text": {
         "en": {
           "name": "Drill Dash",
-          "summary": "Kill 8 {{monster.elderLemurian}}s without losing your Scorching status.",
+          "summary": "Kill 8 Elder Lemurians without losing your Scorching status.",
           "location": null,
           "steps": [],
           "notes": []
@@ -30882,14 +30882,14 @@
         "en": {
           "summary": [
             {
-              "text": "Kill 8 {{monster.elder"
+              "text": "Kill 8 "
             },
             {
-              "entity": "monster.lemurian",
-              "label": "Lemurian"
+              "entity": "monster.elderLemurian",
+              "label": "Elder Lemurian"
             },
             {
-              "text": "}}s without losing your Scorching status."
+              "text": "s without losing your Scorching status."
             }
           ],
           "location": [],
@@ -39925,7 +39925,7 @@
       "text": {
         "en": {
           "name": "Brave Heart, Steady Hand",
-          "summary": "Stay close and <y>defeat the {{monster.elderLemurian}}</c> utilizing your <b>Combat Knife</c>. Retreating results in more reinforcements.",
+          "summary": "Stay close and <y>defeat the Elder Lemurian</c> utilizing your <b>Combat Knife</c>. Retreating results in more reinforcements.",
           "location": null,
           "steps": [],
           "notes": []
@@ -39993,14 +39993,14 @@
         "en": {
           "summary": [
             {
-              "text": "Stay close and <y>defeat the {{monster.elder"
+              "text": "Stay close and <y>defeat the "
             },
             {
-              "entity": "monster.lemurian",
-              "label": "Lemurian"
+              "entity": "monster.elderLemurian",
+              "label": "Elder Lemurian"
             },
             {
-              "text": "}}</c> utilizing your <b>"
+              "text": "</c> utilizing your <b>"
             },
             {
               "entity": "skill.commando.commandoX2",
