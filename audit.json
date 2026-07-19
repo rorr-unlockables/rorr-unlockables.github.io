@@ -1,31 +1,39 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-18T13:37:33.661Z",
+  "generated_at": "2026-07-19T09:45:02.283Z",
   "summary": {
-    "unlockables": 241,
+    "unlockables": 243,
     "issues": 0,
     "issue_groups": 0,
     "by_severity": {},
     "by_area": {},
     "by_category": {
       "artifact": 14,
-      "item": 60,
+      "item": 61,
       "monster_log": 40,
       "other": 1,
       "secret_stage": 1,
       "skill": 41,
       "skin": 11,
       "stage": 10,
-      "survivor": 13,
+      "survivor": 14,
       "trial": 50
     },
+    "by_item_tier": {
+      "common": 14,
+      "equipment": 13,
+      "rare": 18,
+      "special": 1,
+      "uncommon": 19
+    },
     "by_en_guide_review": {
-      "accepted": 241
+      "accepted": 243
     },
     "by_zh_guide_review": {
-      "accepted": 241
+      "accepted": 241,
+      "needs_human_review": 2
     },
-    "achievement_backed": 140
+    "achievement_backed": 142
   },
   "issues": []
 }

@@ -3,18 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Free the chained creature." />
+    <meta name="description" content="Find the metal container in Sunken Tombs Variant #1, #2, or #3, release the chained Acrid, and defeat it to unlock the survivor." />
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href="https://rorr-unlockables.github.io/survivors/acrid/" />
     <link rel="icon" type="image/png" href="/icons/Artifact_of_Origin_Select.png" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Acrid unlock guide | RoRR Unlockables" />
-    <meta property="og:description" content="Free the chained creature." />
+    <meta property="og:description" content="Find the metal container in Sunken Tombs Variant #1, #2, or #3, release the chained Acrid, and defeat it to unlock the survivor." />
     <meta property="og:url" content="https://rorr-unlockables.github.io/survivors/acrid/" />
     <title>Acrid unlock guide | RoRR Unlockables</title>
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWork","name":"Acrid","description":"Free the chained creature.","url":"https://rorr-unlockables.github.io/survivors/acrid/","inLanguage":["en","zh-Hans"],"isPartOf":{"@type":"WebSite","name":"RoRR Unlockables","url":"https://rorr-unlockables.github.io/"}}</script>
-    <script type="module" crossorigin src="/assets/index-Dkfj_21P.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CUv3iR0I.css">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"CreativeWork","name":"Acrid","description":"Find the metal container in Sunken Tombs Variant #1, #2, or #3, release the chained Acrid, and defeat it to unlock the survivor.","url":"https://rorr-unlockables.github.io/survivors/acrid/","inLanguage":["en","zh-Hans"],"isPartOf":{"@type":"WebSite","name":"RoRR Unlockables","url":"https://rorr-unlockables.github.io/"}}</script>
+    <script type="module" crossorigin src="/assets/index-B_w_hw7M.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CrGBXB_i.css">
   </head>
   <body>
     <header class="topbar">
@@ -38,27 +38,35 @@
 
     <main>
       <section class="command-bar" aria-label="Search and filters">
-        <input id="search" type="search" placeholder="Search unlockables" />
-        <div class="filters" aria-label="Filters">
-          <div class="filter-group">
-            <div class="filter-label">Category</div>
-            <div class="filter-options" id="category"></div>
-          </div>
-          <div class="filter-group">
-            <div class="filter-label">Stage</div>
-            <div class="filter-options" id="stage"></div>
-          </div>
-          <div class="filter-group">
-            <div class="filter-label">Survivor</div>
-            <div class="filter-options" id="survivor"></div>
-          </div>
-          <div class="filter-group">
-            <div class="filter-label">Status</div>
-            <div class="filter-options" id="lock"></div>
+        <div class="command-primary">
+          <input id="search" type="search" placeholder="Search unlockables" />
+          <div class="filters" aria-label="Filters">
+            <div class="filter-group">
+              <div class="filter-label">Category</div>
+              <div class="filter-options" id="category"></div>
+            </div>
+            <div class="filter-group">
+              <div class="filter-label">Item Tier</div>
+              <div class="filter-options" id="itemTier"></div>
+            </div>
+            <div class="filter-group">
+              <div class="filter-label">Stage</div>
+              <div class="filter-options" id="stage"></div>
+            </div>
+            <div class="filter-group">
+              <div class="filter-label">Survivor</div>
+              <div class="filter-options" id="survivor"></div>
+            </div>
+            <div class="filter-group">
+              <div class="filter-label">Status</div>
+              <div class="filter-options" id="lock"></div>
+            </div>
           </div>
         </div>
-        <section class="active-tags" id="activeTags" aria-label="Active filters"></section>
-        <section class="summary" id="summary"></section>
+        <div class="command-secondary">
+          <section class="active-tags" id="activeTags" aria-label="Active filters"></section>
+          <section class="summary" id="summary"></section>
+        </div>
       </section>
 
       <section class="layout">
