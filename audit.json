@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T15:35:08.217Z",
+  "generated_at": "2026-07-20T16:09:42.681Z",
   "summary": {
-    "unlockables": 243,
+    "unlockables": 268,
     "issues": 0,
     "issue_groups": 0,
     "by_severity": {},
@@ -13,8 +13,8 @@
       "monster_log": 40,
       "other": 1,
       "secret_stage": 1,
-      "skill": 41,
-      "skin": 11,
+      "skill": 45,
+      "skin": 32,
       "stage": 10,
       "survivor": 14,
       "trial": 50
@@ -27,13 +27,13 @@
       "uncommon": 19
     },
     "by_en_guide_review": {
-      "accepted": 243
+      "accepted": 268
     },
     "by_zh_guide_review": {
-      "accepted": 241,
+      "accepted": 266,
       "needs_human_review": 2
     },
-    "achievement_backed": 142
+    "achievement_backed": 167
   },
   "issues": []
 }

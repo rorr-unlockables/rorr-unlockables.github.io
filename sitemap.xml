@@ -137,10 +137,14 @@
   <url><loc>https://rorr-unlockables.github.io/skills/drifter-drifter-v2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/drifter-drifter-x2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/enforcer-enforcer-v2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skills/enforcer-enforcer-x3/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/enforcer-enforcer-z2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skills/engineer-engineer-v2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skills/engineer-engineer-x2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skills/engineer-engineer-z2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/hand-hand-v2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/hand-hand-x2/</loc></url>
-  <url><loc>https://rorr-unlockables.github.io/skills/hand-hand-x3/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skills/hand-hand-x4/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/huntress-huntress-c2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/huntress-huntress-x2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/huntress-huntress-z2/</loc></url>
@@ -159,17 +163,38 @@
   <url><loc>https://rorr-unlockables.github.io/skills/sniper-sniper-c2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/sniper-sniper-x2/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skills/sniper-sniper-z2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/acrid-acrid-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/acrid-acrid-skin-s/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/acrid-acrid-skin-s2/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/arti-arti-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/arti-arti-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/bandit-bandit-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/bandit-bandit-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/chef-chef-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/chef-chef-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/commando-commando-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/commando-commando-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/commando-commando-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/drifter-drifter-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/drifter-drifter-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/enforcer-enforcer-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/enforcer-enforcer-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/engineer-engineer-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/hand-hand-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/hand-hand-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/huntress-huntress-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/huntress-huntress-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/loader-loader-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/loader-loader-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/mercenary-mercenary-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/skins/mercenary-mercenary-skin-s/</loc></url>
-  <url><loc>https://rorr-unlockables.github.io/skins/pilot-pilot-skin-s/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/miner-miner-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/miner-miner-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/pilot-pilot-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/pilot-pilot-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/robomando-robomando-skin-p/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/sniper-sniper-skin-a/</loc></url>
+  <url><loc>https://rorr-unlockables.github.io/skins/sniper-sniper-skin-p/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/stages/ancient-valley/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/stages/damp-caverns/</loc></url>
   <url><loc>https://rorr-unlockables.github.io/stages/desolate-forest/</loc></url>
